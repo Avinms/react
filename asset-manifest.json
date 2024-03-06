@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Avinms/react1/static/css/main.4a19b8f3.css",
-    "main.js": "/Avinms/react1/static/js/main.06bca53f.js",
-    "index.html": "/Avinms/react1/index.html",
-    "main.4a19b8f3.css.map": "/Avinms/react1/static/css/main.4a19b8f3.css.map",
-    "main.06bca53f.js.map": "/Avinms/react1/static/js/main.06bca53f.js.map"
+    "main.css": "/Avinms/react2/static/css/main.4a19b8f3.css",
+    "main.js": "/Avinms/react2/static/js/main.06bca53f.js",
+    "index.html": "/Avinms/react2/index.html",
+    "main.4a19b8f3.css.map": "/Avinms/react2/static/css/main.4a19b8f3.css.map",
+    "main.06bca53f.js.map": "/Avinms/react2/static/js/main.06bca53f.js.map"
   },
   "entrypoints": [
     "static/css/main.4a19b8f3.css",
